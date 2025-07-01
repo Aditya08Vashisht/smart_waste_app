@@ -33,9 +33,10 @@ The **Smart Waste Management App** is a Flutter-based mobile application that ha
 
 | Login Screen | Home Screen | Waste Reporting |
 |--------------|-------------|------------------|
-![WhatsApp Image 2025-04-23 at 21 41 47_8e032528](https://github.com/user-attachments/assets/5bfd7f66-2af2-4476-885e-2101f888be62)
-![WhatsApp Image 2025-04-23 at 21 41 47_8e032528](https://github.com/user-attachments/assets/10c6bc17-42a8-4eee-87ec-89a3b181d90f)
-![WhatsApp Image 2025-04-23 at 21 40 26_463be101](https://github.com/user-attachments/assets/5c7b6390-60c9-45a9-85e2-a0d2db614797)
+![WhatsApp Image 2025-04-23 at 21 41 47_3dfa43cf](https://github.com/user-attachments/assets/e6184318-4ad0-4b8f-a365-6cc9ea78f61a)
+![WhatsApp Image 2025-04-23 at 21 41 46_88cfa1c8](https://github.com/user-attachments/assets/d3f62611-1ea4-4b03-b6f8-f8dd6ba15873)
+![WhatsApp Image 2025-04-23 at 21 40 26_067c851c](https://github.com/user-attachments/assets/fcecfe0c-dd97-41ff-9278-2ec9d60615a0)
+
 
 
 > _These screens highlight user flow from authentication to AI-based waste classification using real-world images._
